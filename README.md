@@ -1,15 +1,19 @@
 # Flower Lab Submission - Nico Kong
 
 Flower 1: https://www.shadertoy.com/view/3flfWr
+
 ![](f1.png)
 
 Flower 2: https://www.shadertoy.com/view/wfffDr
+
 ![](f2.png)
 
 Bonus Flower 1: https://www.shadertoy.com/view/tflBWn
+
 ![](f3.png)
 
 Bonus Flower 2: https://www.shadertoy.com/view/wcXfW8
+
 ![](f4.png)
 
 # Assignment Description
