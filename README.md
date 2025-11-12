@@ -1,6 +1,4 @@
-# My Results:
-
-Student: Nico Kong #55480104
+# Flower Lab Submission - Nico Kong
 
 Flower 1: https://www.shadertoy.com/view/3flfWr
 
@@ -8,7 +6,7 @@ Flower 2: https://www.shadertoy.com/view/wfffDr
 
 Flower 3: https://www.shadertoy.com/view/tflBWn
 
-# Lab01: Toolbox Functions
+# Assignment Description
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
